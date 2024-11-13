@@ -1,8 +1,8 @@
 For English version, please see [README_EN.md](README_EN.md)
 
-# 互動式球體模擬器
+# 球模擬器
 
-這是一個基於 HTML5 Canvas 和原生 JavaScript 開發的互動式物理模擬器。它展示了一個受用戶輸入和環境因素影響的球體。
+這是一個基於 HTML5 Canvas 和原生 JavaScript 開發的球模擬器。
 
 ## 主要特性
 
@@ -18,18 +18,17 @@ For English version, please see [README_EN.md](README_EN.md)
 
 ## 使用指南
 
-1. 克隆此存儲庫
-2. 在現代瀏覽器中打開 `ball.html` 文件
-3. 移動鼠標來影響球的運動軌跡
+1. 在瀏覽器中打開 [ball.html]()
+2. 移動鼠標來影響球的運動軌跡
 
 ## 技術實現
 
-- 採用 HTML5 Canvas API 進行 2D 渲染
+- 採用 HTML5 Canvas 進行渲染
 - 使用原生 JavaScript 實現，無外部依賴
-- 實現了自定義的物理模擬，包括：
+- 物理模擬：
   - 速度和位置計算
-  - 碰撞檢測和反應
-  - 摩擦力影響
+  - 碰撞檢測
+  - 摩擦力
 
 ## 貢獻指南
 
