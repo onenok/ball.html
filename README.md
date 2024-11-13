@@ -18,7 +18,7 @@ For English version, please see [README_EN.md](README_EN.md)
 
 ## 使用指南
 
-1. 打開 [ball.html]()
+1. 打開 [ball.html](https://onenok.github.io/ball.html/)
 2. 移動鼠標來影響球的運動軌跡
 
 ## 技術實現
