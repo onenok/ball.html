@@ -1,6 +1,6 @@
-# Interactive Ball Simulator
+# Ball Simulator
 
-This is an interactive physics simulator developed using HTML5 Canvas and native JavaScript. It demonstrates a ball influenced by user input and environmental factors.
+This is an interactive physics simulator developed using HTML5 Canvas and JavaScript.
 
 ## Key Features
 
@@ -16,9 +16,8 @@ This is an interactive physics simulator developed using HTML5 Canvas and native
 
 ## Usage Guide
 
-1. Clone this repository
-2. Open `ball.html` in a modern web browser
-3. Move your mouse to influence the ball's motion trajectory
+1. Open [ball.html]()
+2. Move your mouse to influence the ball's motion trajectory
 
 ## Technical Implementation
 
