@@ -16,7 +16,7 @@ This is an interactive physics simulator developed using HTML5 Canvas and JavaSc
 
 ## Usage Guide
 
-1. Open [ball.html]()
+1. Open [ball.html](https://onenok.github.io/ball.html/)
 2. Move your mouse to influence the ball's motion trajectory
 
 ## Technical Implementation
