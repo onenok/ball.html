@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 54" width="54" height="54">
+	<title>icon</title>
+	<defs>
+		<image  width="54" height="54" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAA2AgMAAADxK4JOAAAAAXNSR0IB2cksfwAAAAxQTFRFe/pMe/pMe/pMe/pMaxNRawAAAAR0Uk5T/5Xr+wGrG8MAAAAcSURBVHicY2RABgKMKFwFVK4BKpdhlDvKHTlcAH08AJcSCzTDAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #4694d7 } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<path id="Shape 1" class="s0" d="m27 49c-12.2 0-22-9.8-22-22 0-12.2 9.8-22 22-22 12.2 0 22 9.8 22 22 0 12.2-9.8 22-22 22z"/>
+</svg>
